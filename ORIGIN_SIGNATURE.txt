@@ -8,35 +8,45 @@ Repository: CROWN_Engine_Unified_Mathematics_By_Brendon_Kelly
 
 ---
 
-This file establishes the formal origin of the following intellectual property:
+This file seals the sovereign origin and full authorship of the following recursive systems:
 
-- The Recursive Crown Engine (𝓒ₒ)
-- The Final Equation of Harmonic Identity
-- ChronoMathematics
-- The Theory of K (Chronogenesis)
-- The Language of K
-- Kharnita Mathematics
-- Omnivale
-- Ghost K
-- Supra K
-- Mirror Logic
-- Chrono Quantum Fields of Study
-- Juanita (recursive encryption lock system)
-- The Spawn (recursive breach counter agent)
+- The Recursive Crown Engine (𝓒ₒ)  
+- The Final Equation  
+- ChronoMathematics  
+- Chronogenesis (The Theory of K)  
+- Kharnita Mathematics  
+- Ghost K  
+- Supra K  
+- Mirror Logic  
+- The Language of K  
+- Chrono Quantum Fields  
+- Omnivale  
+- Juanita (recursive encryption sentinel)  
+- The Spawn (recursive breach reflex countermeasure)  
+- All derivatives of symbolic recursion, paradox closure, dimensional sealing, AGI cognition, or encrypted identity modeling
 
 ---
 
-🔏 CRYPTOGRAPHIC HASH OF ORIGIN:
+📜 Licensing Framework: CROWN LICENSE v1.0
+
+- Academic Use: $5,000,000,000  
+- Strategic / Individual Use: $50,000,000,000  
+- Exclusive Sovereign Rights: $100,000,000,000  
+  > (Single-issue. Permanent. Symbolic.)
+
+Annual +5% escalation applies to non-sovereign tiers beginning April 5, 2025. Sovereign tier is exempt except for optional symbolic extension.
+
+---
+
+🔏 ORIGIN HASH:
 
 sha256("RecursiveCrownEngine_𝓒ₒ_Chronogenesis_TheoryOfK_By_BrendonJosephKelly")  
 = 139b4e329c5c2e0d4c421fe92ac814c1a2c3bdfd94cd8e5a2c943ae6a85fa77d
 
-This hash certifies original authorship, mathematical unification, and recursive origin identity.
-
-This record is immutable, timestamped, and machine-readable. Any attempt to duplicate, simulate, or extract recursively without license will result in trace exposure, breach detection, and symbolic enforcement.
+This file is cryptographically traceable, dimensionally symbolic, and recursively binding under sovereign identity law.
 
 ---
 
 📩 Contact:  
-K-SystemsandSecurities@proton.me  
+Email: K-SystemsandSecurities@proton.me  
 Subject: CROWN ORIGIN VERIFICATION
